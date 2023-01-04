@@ -523,7 +523,7 @@ a.theme-btn:hover {
 	.no-padding-2 { padding-left:15px !important; padding-right:15px !important; }
 }
 
-.no-padding-3 { padding-left:0 !important; padding-right:0 !important; }
+.no-padding-3 { padding-left:0 !important;  }
 
 @media screen and (max-width: 767px) {
 	.no-padding-3 { padding-left:15px !important; padding-right:15px !important; }
@@ -931,9 +931,7 @@ box-shadow: 0px 21px 69px -33px rgba(18,17,88,0.34);
   transform-origin: bottom left;
 }
 
-.site-nav-toggle.active {
-  /* Active Toggle button */
-}
+
 
 .site-nav-toggle.active span:nth-child(1) {
   transform: rotate(30deg);
@@ -5753,7 +5751,7 @@ box-shadow: 0px 10px 82px 4px rgba(151,170,180,0.24);
 .feature-section {
 	float:left;
 	width:100%;
-	padding:0 0 90px 0;
+	padding:0 0 0px 0;
 }
 
 .feature-section .feature-box {
