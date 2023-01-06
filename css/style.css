@@ -5757,6 +5757,7 @@ box-shadow: 0px 10px 82px 4px rgba(151,170,180,0.24);
 .feature-section .feature-box {
 	float:left;
 	width:100%;
+  margin-top: 50px; 
 }
 
 @media screen and (max-width: 991px) {
